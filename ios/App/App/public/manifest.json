@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Our Little Morning Ritual Bestpart ❤️",
+  "short_name": "Ritual ❤️",
+  "description": "A private romantic morning alarm application with 200 daily morning messages, romantic audio, and daily alarms at 5:50 AM & 6:30 AM.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#faf6f2",
+  "theme_color": "#fcf8f5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

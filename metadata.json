@@ -1,0 +1,6 @@
+{
+  "name": "Our Little Morning Ritual Bestpart",
+  "description": "A private romantic morning alarm application with 200 daily morning messages, romantic audio, and daily alarms at 5:50 AM & 6:30 AM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
